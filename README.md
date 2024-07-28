@@ -1,5 +1,9 @@
 # LRBS-54
-First open brawl stars v54 server emulator
+Brawl Stars Python Server Emulator
+
+Everything will be fixed in the future.
+
+# Releases in https://github.com/libreserved/fresh-brawl-54/releases
 
 ## Work: ##
 1. Shop(коляски)
