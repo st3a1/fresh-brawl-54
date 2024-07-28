@@ -1,4 +1,4 @@
-# LRBS-54
+# Fresh Brawl V54
 Brawl Stars Python Server Emulator
 
 Everything will be fixed in the future.
@@ -41,4 +41,5 @@ check https://t.me/freshbrawlsource for more news!
 
 ### Credits ###
 stealdev
+Всегда обращайтесь в тг, помогаю только там.
 https://t.me/st3a1
